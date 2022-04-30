@@ -7,6 +7,7 @@
 
 
 int main() {
+  
 std::ifstream code_file("input.txt");
 std::stringstream buffer;
 buffer << code_file.rdbuf();
