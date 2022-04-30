@@ -1,0 +1,16 @@
+int main(int f,char c) {
+    int x = 12;
+    double y;
+    cout << x;
+    auto z = 10;
+    int b;
+    long w=15;
+    art (a,b);
+}
+
+
+
+void example (
+    int a,
+    auto b
+)
